@@ -1,21 +1,24 @@
 {
-    "name": "fis3-parser-gfe-ssi",
-    "version": "1.0.1",
-    "description": "获取指定域名下的ssi内容并替换相应ssi标签",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/midday/fis3-parser-gfe-ssi.git"
-    },
-    "keywords": [
-        "gfe",
-        "fis3",
-        "ssi"
-    ],
-    "author": "midday",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/midday/fis3-parser-gfe-ssi/issues"
-    },
-    "homepage": "https://github.com/midday/fis3-parser-gfe-ssi#readme"
+  "name": "fis3-parser-gfe-ssi",
+  "version": "1.0.2",
+  "description": "获取指定域名下的ssi内容并替换相应ssi标签",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midday/fis3-parser-gfe-ssi.git"
+  },
+  "keywords": [
+    "gfe",
+    "fis3",
+    "ssi"
+  ],
+  "author": "midday",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/midday/fis3-parser-gfe-ssi/issues"
+  },
+  "homepage": "https://github.com/midday/fis3-parser-gfe-ssi#readme",
+  "dependencies": {
+    "sync-request": "^3.0.1"
+  }
 }
